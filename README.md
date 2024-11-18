@@ -1,10 +1,12 @@
-Setting Geographical Roles (Map)
+1. Setting Geographical Roles (Map)
 
-Demographical Segmentation(Gender) of our member(customer) base of the bank.
+2. Demographical Segmentation(Gender) of our member(customer) base of the bank.
 
-Distrubition across 5 years age bands (bin created)
+3. Distrubition across 5 years age bands (bin created)
 
-Leveraging Parameters
+4. Leveraging Parameters
 
-Classification (Tree Map) 
+5. Classification (Tree Map) 
+
+-----------Story Telling, Fully Interactive Customer Segmentation Dashboard----------------
 
