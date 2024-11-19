@@ -1,7 +1,8 @@
 ![image](https://github.com/user-attachments/assets/56122d83-2f4d-4649-9978-a570f3ab7b80)
 
 1. Custom Territories vıa groups 
-2. Custom territories via geographic role 
+2. Custom territories via geographic role
+3. 3. Clustering
 
 # Overview
 
@@ -18,7 +19,7 @@ I’ve learned how to connect Tableau to different types of data sources and per
 
 ### 2. Data Preparation and Transformation
 
-- **Data Cleaning**: Using Tableau’s data interpreter, I have cleaned and transformed raw data by handling null values, removing duplicates, and correcting formatting issues.  
+- **Data Cleaning**: Using Tableau’s data interpreter, I have cleaned and transformed raw data by handling null values, removing duplicates, and correcting formatting issues. 
 - **Calculated Fields**: I created custom calculated fields to derive new metrics from existing data, such as profit margins, growth rates, and performance scores.  
 - **Data Aggregation**: Aggregating data at different levels (e.g., by region, product, or time) helped me generate insightful summaries.
 
