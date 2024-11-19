@@ -9,4 +9,8 @@
 5. Classification (Tree Map) 
 
 -----------Story Telling, Fully Interactive Customer Segmentation Dashboard----------------
+![image](https://github.com/user-attachments/assets/bf96b103-f62e-4713-9060-fd6c41586ccf)
+
+![image](https://github.com/user-attachments/assets/8ae5b46c-2576-4cb2-8bdd-01ba48633b5b)
+
 
