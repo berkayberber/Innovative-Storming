@@ -1,3 +1,6 @@
+![image](https://github.com/user-attachments/assets/56122d83-2f4d-4649-9978-a570f3ab7b80)
+
+
 # Overview
 
 This repository includes multiple Tableau projects showcasing various data visualization techniques and best practices. Each project demonstrates how Tableau can be used to analyze, visualize, and interact with data across different domains. The goal of these projects is to create meaningful insights through dynamic and interactive dashboards.
