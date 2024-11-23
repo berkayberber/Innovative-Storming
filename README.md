@@ -9,7 +9,7 @@ This repository includes multiple Tableau projects showcasing various data visua
 
 ### 1. Data Sources
 
-Each project uses diverse data sources such as Excel, SQL databases, CSV files, or APIs.  
+Each project uses diverse data sources such as Excel, SQL databases, CSV files. 
 I’ve learned how to connect Tableau to different types of data sources and perform data blending to consolidate multiple datasets.
 
 ### 2. Data Preparation and Transformation
